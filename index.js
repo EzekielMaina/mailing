@@ -62,4 +62,4 @@ const mc = async (n) => {
 };
 
 // Start the process with an initial value of 10
-mc(10);
+mc(100);
